@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Brazilia Italia Restaurant Website created using React.js and Bootstrap
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Brazilia Italia is a non-existing restauarnt and this name is used for personal project
 
 ## Available Scripts
 
