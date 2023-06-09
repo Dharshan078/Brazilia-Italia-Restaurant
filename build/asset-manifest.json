@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Brazilia-Italia-Restaurant/static/css/main.52a4402c.css",
+    "main.js": "/Brazilia-Italia-Restaurant/static/js/main.89e1382c.js",
+    "index.html": "/Brazilia-Italia-Restaurant/index.html",
+    "main.52a4402c.css.map": "/Brazilia-Italia-Restaurant/static/css/main.52a4402c.css.map",
+    "main.89e1382c.js.map": "/Brazilia-Italia-Restaurant/static/js/main.89e1382c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52a4402c.css",
+    "static/js/main.89e1382c.js"
+  ]
+}
