@@ -2,7 +2,16 @@
 
 Brazilia Italia is a non-existing restauarnt and this name is used for personal project
 
-## Available Scripts
+![Screenshot (190)](https://github.com/Dharshan078/Brazilia-Italia-Restaurant/assets/103129616/11016ee8-d3a3-4c0b-bdf3-04e63bcd7bec)
+
+![Screenshot (191)](https://github.com/Dharshan078/Brazilia-Italia-Restaurant/assets/103129616/8af94b64-8a25-4073-a061-7c4ebb5257d9)
+
+![Screenshot (193)](https://github.com/Dharshan078/Brazilia-Italia-Restaurant/assets/103129616/995bbf0a-a43f-4bab-845d-a81be0918bec)
+
+![Screenshot (194)](https://github.com/Dharshan078/Brazilia-Italia-Restaurant/assets/103129616/13037066-7af9-4041-b3c0-845923d4be6e)
+
+## Available Scripts![Uploading Screenshot (194).png…]()
+
 
 In the project directory, you can run:
 
