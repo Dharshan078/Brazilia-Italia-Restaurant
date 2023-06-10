@@ -1,6 +1,6 @@
-## Brazilia Italia Restaurant Website created using React.js and Bootstrap
+# Brazilia Italia Restaurant Website created using React.js and Bootstrap
 
-# Brazilia Italia is a non-existing restauarnt and this name is used for personal project
+## Brazilia Italia is a non-existing restauarnt and this name is used for personal project
 
 Some of the Screenshots of Brazilia Italia Project
 
