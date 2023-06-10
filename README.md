@@ -10,8 +10,7 @@ Brazilia Italia is a non-existing restauarnt and this name is used for personal 
 
 ![Screenshot (194)](https://github.com/Dharshan078/Brazilia-Italia-Restaurant/assets/103129616/13037066-7af9-4041-b3c0-845923d4be6e)
 
-## Available Scripts![Uploading Screenshot (194).png…]()
-
+## Available Scripts!
 
 In the project directory, you can run:
 
